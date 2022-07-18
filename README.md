@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Firebase Config
 
-Go to https://firebase.google.com/ and create a project in order to get firebase API configuration 
+Go to https://firebase.google.com/ and create a project in order to get firebase API configuration, paste info into firebase-config.js
